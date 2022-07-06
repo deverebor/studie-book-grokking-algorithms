@@ -1,8 +1,6 @@
 /*
   Binary search
   Only works on sorted arrays. for example [1,2,3,4,5]
-
-  @todo create test to this function
 */
 
 export function binarySearch(arr: number[], index: number): number | null {
