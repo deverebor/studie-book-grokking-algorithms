@@ -1,6 +1,6 @@
 # Questions
 
-## Colection of questions in the second chapter
+## Collection of questions in the second chapter
 
 ### 2.1 - Spouse you are making an financies app to tracking your finances. Everyday you write all the expenses in one day. In the end of the month, you revisit your expenses and how much you spent. So, you have a lot of insertions and low read. Yo may to use an arrays or a list to implements this app
 

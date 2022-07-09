@@ -1,6 +1,6 @@
 # Questions
 
-## Colection of questions in the first chapter
+## Collection of questions in the first chapter
 
 ### 1.1 - Suppose you have a list with 128 names and you are doing a binary search. What would be the maximum number of steps it would take you to find the name you want?
 

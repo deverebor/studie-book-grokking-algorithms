@@ -1,6 +1,6 @@
 import { binarySearch } from '../binary-search'
 
-describe('Binary search tests', () => {
+describe('First Chapter', () => {
 	it('should return null if the value is not found', () => {
 		const arr = [1, 2, 3, 4, 5]
 		const index = -1
