@@ -1,5 +1,5 @@
 import { countdown } from './countdown-recursive'
-import { greeting } from './greatings-recursive'
+import { greeting } from './greeting-recursive'
 import { showFactorial } from './factorial-recursive'
 import { recursiveTail } from './recursive-tail'
 
