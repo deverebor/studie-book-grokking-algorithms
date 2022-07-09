@@ -15,4 +15,12 @@ describe('Binary search tests', () => {
 
 		expect(binarySearch(arr, searchedItem)).toBe(indexInArr)
 	})
+
+	it('should search for the value in low position in array', () => {
+		const arr = [1, 2, 3, 4, 5]
+		const searchedItem = 4
+		const indexInArr = 3
+
+		expect(binarySearch(arr, searchedItem)).toBe(indexInArr)
+	})
 })
