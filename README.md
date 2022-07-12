@@ -25,6 +25,14 @@
     - [Greeting Recursive](src/third-chapter/greeting-recursive.ts)
     - [Factorial Recursive](src/third-chapter/factorial-recursive.ts)
     - [Recursive Tail Call](src/third-chapter/recursive-tail.ts)
+- Fourth Chapter
+  - [Anotations](src/fourth-chapter/notes/)
+  - [Main](src/fourth-chapter/main.ts)
+    - [Loop Sum](src/fourth-chapter/loop-sum.ts)
+    - [Quicksort](src/fourth-chapter/quicksort.ts)
+    - [Recursive Count](src/fourth-chapter/recursive-count.ts)
+    - [Recursive Max](src/fourth-chapter/recursive-max.ts)
+    - [Recursive Sum](src/fourth-chapter/recursive-sum.ts)
 
 ## Testing
 
