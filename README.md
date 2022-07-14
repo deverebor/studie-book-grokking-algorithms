@@ -41,6 +41,11 @@
     - [Recursive Count](src/fourth-chapter/recursive-count.ts)
     - [Recursive Max](src/fourth-chapter/recursive-max.ts)
     - [Recursive Sum](src/fourth-chapter/recursive-sum.ts)
+- Fifth Chapter
+  - [Anotations](src/fifth-chapter/notes/)
+  - [Main](src/fifth-chapter/main.ts)
+    - [Hash Basket](src/fifth-chapter/hash-basket.ts)
+    - [Hash Voted](src/fifth-chapter/hash-voted.ts)
 
 ---
 
