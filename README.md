@@ -1,6 +1,14 @@
 # Grokking Algorithms
 
+<div align='center'>
+
+| Statements                  | Branches                | Functions                 | Lines             |
+| --------------------------- | ----------------------- | ------------------------- | ----------------- |
+| ![Statements](https://img.shields.io/badge/statements-100%25-brightgreen.svg?style=flat) | ![Branches](https://img.shields.io/badge/branches-100%25-brightgreen.svg?style=flat) | ![Functions](https://img.shields.io/badge/functions-100%25-brightgreen.svg?style=flat) | ![Lines](https://img.shields.io/badge/lines-100%25-brightgreen.svg?style=flat) |
+
 ![Grokking Algorithms](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FS%2Faplus-media%2Fvc%2Fb246f931-8a81-407e-84b1-cf14d4680b64.png&f=1&nofb=1)
+
+</div>
 
 > **Notes**, **challenge resolutions**, and **applications** of the Grokking Algorithms book content
 
@@ -33,14 +41,6 @@
     - [Recursive Count](src/fourth-chapter/recursive-count.ts)
     - [Recursive Max](src/fourth-chapter/recursive-max.ts)
     - [Recursive Sum](src/fourth-chapter/recursive-sum.ts)
-
-## Testing
-
-All sections are tested with the [`jest`](https://jestjs.io/) testing framework.
-
-### Coverage
-
-![Coverage](./.github/assets/coverage.png)
 
 ---
 

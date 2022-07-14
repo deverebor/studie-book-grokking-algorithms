@@ -8,6 +8,7 @@
   "scripts": {
     "lint": "eslint . --fix",
     "test": "jest",
+    "make-badges": "istanbul-badges-readme",
     "test:silent": "jest --watch --silent --noStackTrace --bail --maxWorkers=50%",
     "test:coverage": "jest --coverage --silent --noStackTrace --passWithNoTests --bail --maxWorkers=50%"
   },
@@ -19,6 +20,7 @@
     "eslint": "^8.14.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.0.0",
+    "istanbul-badges-readme": "^1.8.2",
     "jest": "^28.1.2",
     "prettier": "^2.6.2",
     "ts-jest": "^28.0.5",
