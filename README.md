@@ -40,7 +40,7 @@ All sections are tested with the [`jest`](https://jestjs.io/) testing framework.
 
 ### Coverage
 
-![Coverage](./.github/assets/corerage.png)
+![Coverage](./.github/assets/coverage.png)
 
 ---
 
